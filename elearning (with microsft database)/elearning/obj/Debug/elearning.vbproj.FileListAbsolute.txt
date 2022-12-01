@@ -1,0 +1,358 @@
+C:\Users\zeba anika\Desktop\SDM-assign\elearning\elearning\bin\Debug\elearning.exe.config
+C:\Users\zeba anika\Desktop\SDM-assign\elearning\elearning\bin\Debug\elearning.exe
+C:\Users\zeba anika\Desktop\SDM-assign\elearning\elearning\bin\Debug\elearning.pdb
+C:\Users\zeba anika\Desktop\SDM-assign\elearning\elearning\bin\Debug\elearning.xml
+C:\Users\zeba anika\Desktop\SDM-assign\elearning\elearning\obj\Debug\elearning.vbprojAssemblyReference.cache
+C:\Users\zeba anika\Desktop\SDM-assign\elearning\elearning\obj\Debug\elearning.Resources.resources
+C:\Users\zeba anika\Desktop\SDM-assign\elearning\elearning\obj\Debug\elearning.Teacherlogin.resources
+C:\Users\zeba anika\Desktop\SDM-assign\elearning\elearning\obj\Debug\elearning.vbproj.GenerateResource.cache
+C:\Users\zeba anika\Desktop\SDM-assign\elearning\elearning\obj\Debug\elearning.vbproj.CoreCompileInputs.cache
+C:\Users\zeba anika\Desktop\SDM-assign\elearning\elearning\obj\Debug\elearning.exe
+C:\Users\zeba anika\Desktop\SDM-assign\elearning\elearning\obj\Debug\elearning.xml
+C:\Users\zeba anika\Desktop\SDM-assign\elearning\elearning\obj\Debug\elearning.pdb
+C:\Users\zeba anika\Desktop\SDM-assign\elearning\elearning\obj\Debug\elearning.HomePage.resources
+C:\Users\zeba anika\Desktop\SDM-assign\elearning\elearning\obj\Debug\elearning.TeacherDashboard.resources
+C:\Users\zeba anika\Desktop\SDM-assign\elearning\elearning\obj\Debug\elearning.Teacherfeedback.resources
+C:\Users\zeba anika\Desktop\SDM-assign\elearning\elearning\obj\Debug\elearning.InsertReport.resources
+C:\Users\zeba anika\Desktop\SDM-assign\elearning\elearning\obj\Debug\elearning.MathUpload.resources
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.vbprojAssemblyReference.cache
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.HomePage.resources
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.InsertReport.resources
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.MathUpload.resources
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.Resources.resources
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.TeacherDashboard.resources
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.Teacherfeedback.resources
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.Teacherlogin.resources
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.vbproj.GenerateResource.cache
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.vbproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.exe
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.xml
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.pdb
+C:\Users\User\Downloads\elearning\elearning\bin\Debug\elearning.exe.config
+C:\Users\User\Downloads\elearning\elearning\bin\Debug\elearning.exe
+C:\Users\User\Downloads\elearning\elearning\bin\Debug\elearning.pdb
+C:\Users\User\Downloads\elearning\elearning\bin\Debug\elearning.xml
+C:\Users\zeba anika\Desktop\SDM-assign\elearning\elearning\obj\Debug\elearning.ExerciseUpload.resources
+C:\Users\zeba anika\Desktop\SDM-assign\elearning\elearning\obj\Debug\elearning.Testupload.resources
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.ExerciseUpload.resources
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.Testupload.resources
+C:\File Handaling\elearning\elearning\bin\Debug\elearning.exe.config
+C:\File Handaling\elearning\elearning\bin\Debug\elearning.exe
+C:\File Handaling\elearning\elearning\bin\Debug\elearning.pdb
+C:\File Handaling\elearning\elearning\bin\Debug\elearning.xml
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.vbprojAssemblyReference.cache
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.ExerciseUpload.resources
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.HomePage.resources
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.InsertReport.resources
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.MathUpload.resources
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.Resources.resources
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.TeacherDashboard.resources
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.Teacherfeedback.resources
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.Teacherlogin.resources
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.Testupload.resources
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.vbproj.GenerateResource.cache
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.vbproj.CoreCompileInputs.cache
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.exe
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.xml
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.pdb
+C:\Users\zeba anika\Desktop\SDP new\elearning\elearning\bin\Debug\elearning.exe.config
+C:\Users\zeba anika\Desktop\SDP new\elearning\elearning\bin\Debug\elearning.exe
+C:\Users\zeba anika\Desktop\SDP new\elearning\elearning\bin\Debug\elearning.pdb
+C:\Users\zeba anika\Desktop\SDP new\elearning\elearning\bin\Debug\elearning.xml
+C:\Users\zeba anika\Desktop\SDP new\elearning\elearning\obj\Debug\elearning.vbprojAssemblyReference.cache
+C:\Users\zeba anika\Desktop\SDP new\elearning\elearning\obj\Debug\elearning.ExerciseUpload.resources
+C:\Users\zeba anika\Desktop\SDP new\elearning\elearning\obj\Debug\elearning.HomePage.resources
+C:\Users\zeba anika\Desktop\SDP new\elearning\elearning\obj\Debug\elearning.InsertReport.resources
+C:\Users\zeba anika\Desktop\SDP new\elearning\elearning\obj\Debug\elearning.MathUpload.resources
+C:\Users\zeba anika\Desktop\SDP new\elearning\elearning\obj\Debug\elearning.Resources.resources
+C:\Users\zeba anika\Desktop\SDP new\elearning\elearning\obj\Debug\elearning.TeacherDashboard.resources
+C:\Users\zeba anika\Desktop\SDP new\elearning\elearning\obj\Debug\elearning.Teacherfeedback.resources
+C:\Users\zeba anika\Desktop\SDP new\elearning\elearning\obj\Debug\elearning.Teacherlogin.resources
+C:\Users\zeba anika\Desktop\SDP new\elearning\elearning\obj\Debug\elearning.Testupload.resources
+C:\Users\zeba anika\Desktop\SDP new\elearning\elearning\obj\Debug\elearning.vbproj.GenerateResource.cache
+C:\Users\zeba anika\Desktop\SDP new\elearning\elearning\obj\Debug\elearning.vbproj.CoreCompileInputs.cache
+C:\Users\zeba anika\Desktop\SDP new\elearning\elearning\obj\Debug\elearning.exe
+C:\Users\zeba anika\Desktop\SDP new\elearning\elearning\obj\Debug\elearning.xml
+C:\Users\zeba anika\Desktop\SDP new\elearning\elearning\obj\Debug\elearning.pdb
+C:\Users\User\Documents\elearning\elearning\bin\Debug\elearning.exe.config
+C:\Users\User\Documents\elearning\elearning\bin\Debug\elearning.exe
+C:\Users\User\Documents\elearning\elearning\bin\Debug\elearning.pdb
+C:\Users\User\Documents\elearning\elearning\bin\Debug\elearning.xml
+C:\Users\User\Documents\elearning\elearning\obj\Debug\elearning.vbprojAssemblyReference.cache
+C:\Users\User\Documents\elearning\elearning\obj\Debug\elearning.ExerciseUpload.resources
+C:\Users\User\Documents\elearning\elearning\obj\Debug\elearning.HomePage.resources
+C:\Users\User\Documents\elearning\elearning\obj\Debug\elearning.InsertReport.resources
+C:\Users\User\Documents\elearning\elearning\obj\Debug\elearning.MathUpload.resources
+C:\Users\User\Documents\elearning\elearning\obj\Debug\elearning.Resources.resources
+C:\Users\User\Documents\elearning\elearning\obj\Debug\elearning.TeacherDashboard.resources
+C:\Users\User\Documents\elearning\elearning\obj\Debug\elearning.Teacherfeedback.resources
+C:\Users\User\Documents\elearning\elearning\obj\Debug\elearning.Teacherlogin.resources
+C:\Users\User\Documents\elearning\elearning\obj\Debug\elearning.Testupload.resources
+C:\Users\User\Documents\elearning\elearning\obj\Debug\elearning.vbproj.GenerateResource.cache
+C:\Users\User\Documents\elearning\elearning\obj\Debug\elearning.vbproj.CoreCompileInputs.cache
+C:\Users\User\Documents\elearning\elearning\obj\Debug\elearning.exe
+C:\Users\User\Documents\elearning\elearning\obj\Debug\elearning.xml
+C:\Users\User\Documents\elearning\elearning\obj\Debug\elearning.pdb
+C:\Users\User\Pictures\elearning\elearning\bin\Debug\elearning.exe.config
+C:\Users\User\Pictures\elearning\elearning\bin\Debug\elearning.exe
+C:\Users\User\Pictures\elearning\elearning\bin\Debug\elearning.pdb
+C:\Users\User\Pictures\elearning\elearning\bin\Debug\elearning.xml
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.vbprojAssemblyReference.cache
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.AddStudents.resources
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.AddTeachers.resources
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.DeleteStudents.resources
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.DeleteTeachers.resources
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.ExerciseUpload.resources
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.HomePage.resources
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.InsertReport.resources
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.ListMenu.resources
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.LoginAdmin.resources
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.ManageUsers.resources
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.MathUpload.resources
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.Resources.resources
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.StudentMenu.resources
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.StudentList.resources
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.TeacherDashboard.resources
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.Teacherfeedback.resources
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.Teacherlogin.resources
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.TeachersList.resources
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.TeachersMenu.resources
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.Testupload.resources
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.UpdateStudents.resources
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.UpdateTeachers.resources
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.UserMenu.resources
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.vbproj.GenerateResource.cache
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.vbproj.CoreCompileInputs.cache
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.exe
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.xml
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.pdb
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.AttendGenMaths.resources
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.AttendGenSci.resources
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.AttendMathreg.resources
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.AttendsciReg.resources
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.ViewFeedbacks.resources
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.Attendance_Percentage.resources
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.attendance.resources
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.FormCSEx.resources
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.Choose_Subject_LM.resources
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.Choose_Subject_Test.resources
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.Exercise_Maths.resources
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.Exercise_Sci.resources
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.FormFeedBack.resources
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.Form_Learning_Materials_Maths.resources
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.FormLearnMSci.resources
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.FormCSTest.resources
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.FormExamTestMaths.resources
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.FormExamTestSci.resources
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.Amsign.resources
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.Results.resources
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.Assign.resources
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.SCIMATHS_Attendance.resources
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.FormStuLogin.resources
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.FormStudentMain.resources
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.StudentAttendMaths.resources
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.Form1.resources
+C:\Users\User\Pictures\elearning\elearning\obj\Debug\elearning.Form2.resources
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.AddStudents.resources
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.AddTeachers.resources
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.Attendance_Percentage.resources
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.attendance.resources
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.AttendGenMaths.resources
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.AttendGenSci.resources
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.AttendMathreg.resources
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.AttendsciReg.resources
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.FormCSEx.resources
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.Choose_Subject_LM.resources
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.Choose_Subject_Test.resources
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.DeleteStudents.resources
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.DeleteTeachers.resources
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.Exercise_Maths.resources
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.Exercise_Sci.resources
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.FormFeedBack.resources
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.Form_Learning_Materials_Maths.resources
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.FormLearnMSci.resources
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.Form1.resources
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.Form2.resources
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.FormCSTest.resources
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.FormExamTestMaths.resources
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.FormExamTestSci.resources
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.ListMenu.resources
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.LoginAdmin.resources
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.ManageUsers.resources
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.Amsign.resources
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.Results.resources
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.Assign.resources
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.SCIMATHS_Attendance.resources
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.FormStuLogin.resources
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.FormStudentMain.resources
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.StudentAttendMaths.resources
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.StudentMenu.resources
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.StudentList.resources
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.TeachersList.resources
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.TeachersMenu.resources
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.UpdateStudents.resources
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.UpdateTeachers.resources
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.UserMenu.resources
+C:\File Handaling\elearning\elearning\obj\Debug\elearning.ViewFeedbacks.resources
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\bin\Debug\elearning.exe.config
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\bin\Debug\elearning.exe
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\bin\Debug\elearning.pdb
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\bin\Debug\elearning.xml
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.vbprojAssemblyReference.cache
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.AddStudents.resources
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.AddTeachers.resources
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.Attendance_Percentage.resources
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.attendance.resources
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.AttendGenMaths.resources
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.AttendGenSci.resources
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.AttendMathreg.resources
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.AttendsciReg.resources
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.FormCSEx.resources
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.Choose_Subject_LM.resources
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.Choose_Subject_Test.resources
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.DeleteStudents.resources
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.DeleteTeachers.resources
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.Exercise_Maths.resources
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.Exercise_Sci.resources
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.ExerciseUpload.resources
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.FormFeedBack.resources
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.Form_Learning_Materials_Maths.resources
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.FormLearnMSci.resources
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.Form1.resources
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.Form2.resources
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.FormCSTest.resources
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.FormExamTestMaths.resources
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.FormExamTestSci.resources
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.HomePage.resources
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.InsertReport.resources
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.ListMenu.resources
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.LoginAdmin.resources
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.ManageUsers.resources
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.Amsign.resources
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.MathUpload.resources
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.Resources.resources
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.Results.resources
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.Assign.resources
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.SCIMATHS_Attendance.resources
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.FormStuLogin.resources
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.FormStudentMain.resources
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.StudentAttendMaths.resources
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.StudentMenu.resources
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.StudentList.resources
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.TeacherDashboard.resources
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.Teacherfeedback.resources
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.Teacherlogin.resources
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.TeachersList.resources
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.TeachersMenu.resources
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.Testupload.resources
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.UpdateStudents.resources
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.UpdateTeachers.resources
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.UserMenu.resources
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.ViewFeedbacks.resources
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.vbproj.GenerateResource.cache
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.vbproj.CoreCompileInputs.cache
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.exe
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.xml
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.pdb
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.AddStudents.resources
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.AddTeachers.resources
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.Attendance_Percentage.resources
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.attendance.resources
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.AttendGenMaths.resources
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.AttendGenSci.resources
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.AttendMathreg.resources
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.AttendsciReg.resources
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.FormCSEx.resources
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.Choose_Subject_LM.resources
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.Choose_Subject_Test.resources
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.DeleteStudents.resources
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.DeleteTeachers.resources
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.Exercise_Maths.resources
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.Exercise_Sci.resources
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.FormFeedBack.resources
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.Form_Learning_Materials_Maths.resources
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.FormLearnMSci.resources
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.Form1.resources
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.Form2.resources
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.FormCSTest.resources
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.FormExamTestMaths.resources
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.FormExamTestSci.resources
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.ListMenu.resources
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.LoginAdmin.resources
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.ManageUsers.resources
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.Amsign.resources
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.Results.resources
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.Assign.resources
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.SCIMATHS_Attendance.resources
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.FormStuLogin.resources
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.FormStudentMain.resources
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.StudentAttendMaths.resources
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.StudentMenu.resources
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.StudentList.resources
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.TeachersList.resources
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.TeachersMenu.resources
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.UpdateStudents.resources
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.UpdateTeachers.resources
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.UserMenu.resources
+C:\Users\User\Downloads\elearning\elearning\obj\Debug\elearning.ViewFeedbacks.resources
+C:\Users\User\Desktop\elearning\elearning\bin\Debug\elearning.exe.config
+C:\Users\User\Desktop\elearning\elearning\bin\Debug\elearning.exe
+C:\Users\User\Desktop\elearning\elearning\bin\Debug\elearning.pdb
+C:\Users\User\Desktop\elearning\elearning\bin\Debug\elearning.xml
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.vbprojAssemblyReference.cache
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.AddStudents.resources
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.AddTeachers.resources
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.Attendance_Percentage.resources
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.attendance.resources
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.AttendGenMaths.resources
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.AttendGenSci.resources
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.AttendMathreg.resources
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.AttendsciReg.resources
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.FormCSEx.resources
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.Choose_Subject_LM.resources
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.Choose_Subject_Test.resources
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.DeleteStudents.resources
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.DeleteTeachers.resources
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.Exercise_Maths.resources
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.Exercise_Sci.resources
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.ExerciseUpload.resources
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.FormFeedBack.resources
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.Form_Learning_Materials_Maths.resources
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.FormLearnMSci.resources
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.Form1.resources
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.Form2.resources
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.FormCSTest.resources
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.FormExamTestMaths.resources
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.FormExamTestSci.resources
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.HomePage.resources
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.InsertReport.resources
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.ListMenu.resources
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.LoginAdmin.resources
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.ManageUsers.resources
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.Amsign.resources
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.MathUpload.resources
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.Resources.resources
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.Results.resources
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.Assign.resources
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.SCIMATHS_Attendance.resources
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.FormStuLogin.resources
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.FormStudentMain.resources
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.StudentAttendMaths.resources
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.StudentMenu.resources
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.StudentList.resources
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.TeacherDashboard.resources
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.Teacherfeedback.resources
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.Teacherlogin.resources
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.TeachersList.resources
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.TeachersMenu.resources
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.Testupload.resources
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.UpdateStudents.resources
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.UpdateTeachers.resources
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.UserMenu.resources
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.ViewFeedbacks.resources
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.exe
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.xml
+C:\Users\User\Desktop\elearning\elearning\obj\Debug\elearning.pdb
+C:\Users\zeba anika\Desktop\SDP\elearning\elearning\obj\Debug\elearning.TeacherChecklist.resources

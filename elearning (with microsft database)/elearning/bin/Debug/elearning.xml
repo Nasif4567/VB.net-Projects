@@ -1,0 +1,677 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+elearning
+</name>
+</assembly>
+<members>
+<member name="T:elearning.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:elearning.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:elearning.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:elearning.My.Resources.Resources._4c1c5e30_7ec6_466e_90e7_482f78f91e42">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:elearning.My.Resources.Resources._default">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:elearning.My.Resources.Resources.cover">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:elearning.My.Resources.Resources.profile">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:elearning.StudentAttendMaths">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:elearning.StudentAttendMaths.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:elearning.StudentAttendMaths.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet.AdminDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet.Exercise_MaterialsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet.FeedbackDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet.Learning_MaterialsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet.Student_ReportDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet.StudentsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet.TeachersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet.Test_MaterialsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet.AdminRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet.Exercise_MaterialsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet.FeedbackRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet.Learning_MaterialsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet.Student_ReportRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet.StudentsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet.TeachersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet.Test_MaterialsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet.AdminRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet.Exercise_MaterialsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet.FeedbackRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet.Learning_MaterialsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet.Student_ReportRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet.StudentsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet.TeachersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet.Test_MaterialsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSetTableAdapters.AdminTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSetTableAdapters.Exercise_MaterialsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSetTableAdapters.FeedbackTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSetTableAdapters.Learning_MaterialsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSetTableAdapters.Student_ReportTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSetTableAdapters.StudentsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSetTableAdapters.TeachersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSetTableAdapters.Test_MaterialsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:elearning._e_learningDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(elearning._e_learningDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:elearning._e_learningDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(elearning._e_learningDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:elearning._e_learningDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(elearning._e_learningDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:elearning._e_learningDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:elearning._e_learningDataSetTableAdapters.TableAdapterManager.UpdateAll(elearning._e_learningDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet1.AdminDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet1.Exercise_MaterialsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet1.FeedbackDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet1.Learning_MaterialsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet1.Student_ReportDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet1.StudentsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet1.TeachersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet1.Test_MaterialsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet1.AdminRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet1.Exercise_MaterialsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet1.FeedbackRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet1.Learning_MaterialsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet1.Student_ReportRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet1.StudentsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet1.TeachersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet1.Test_MaterialsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet1.AdminRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet1.Exercise_MaterialsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet1.FeedbackRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet1.Learning_MaterialsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet1.Student_ReportRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet1.StudentsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet1.TeachersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet1.Test_MaterialsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet1TableAdapters.AdminTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet1TableAdapters.Exercise_MaterialsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet1TableAdapters.FeedbackTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet1TableAdapters.Learning_MaterialsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet1TableAdapters.Student_ReportTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet1TableAdapters.StudentsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet1TableAdapters.TeachersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet1TableAdapters.Test_MaterialsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:elearning._e_learningDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(elearning._e_learningDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:elearning._e_learningDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(elearning._e_learningDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:elearning._e_learningDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(elearning._e_learningDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:elearning._e_learningDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:elearning._e_learningDataSet1TableAdapters.TableAdapterManager.UpdateAll(elearning._e_learningDataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet2">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet2.AdminDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet2.Exercise_MaterialsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet2.FeedbackDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet2.Learning_MaterialsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet2.Student_ReportDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet2.StudentsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet2.TeachersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet2.Test_MaterialsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet2.AdminRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet2.Exercise_MaterialsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet2.FeedbackRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet2.Learning_MaterialsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet2.Student_ReportRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet2.StudentsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet2.TeachersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet2.Test_MaterialsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet2.AdminRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet2.Exercise_MaterialsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet2.FeedbackRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet2.Learning_MaterialsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet2.Student_ReportRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet2.StudentsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet2.TeachersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet2.Test_MaterialsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet2TableAdapters.AdminTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet2TableAdapters.Exercise_MaterialsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet2TableAdapters.FeedbackTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet2TableAdapters.Learning_MaterialsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet2TableAdapters.Student_ReportTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet2TableAdapters.StudentsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet2TableAdapters.TeachersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet2TableAdapters.Test_MaterialsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet2TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:elearning._e_learningDataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(elearning._e_learningDataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:elearning._e_learningDataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(elearning._e_learningDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:elearning._e_learningDataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(elearning._e_learningDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:elearning._e_learningDataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:elearning._e_learningDataSet2TableAdapters.TableAdapterManager.UpdateAll(elearning._e_learningDataSet2)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:elearning._e_learningDataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
